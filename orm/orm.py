@@ -2,6 +2,7 @@
 
 # 引入mongodb的封装类
 import pymongo
+# 引入系统类
 import sys
 
 # 设置字符编码为utf8
